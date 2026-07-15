@@ -4,7 +4,7 @@
 
 <!-- Optional hero image -->
 
-<!-- ![Explainable Credit Risk Copilot](docs/images/readme-hero.png) -->
+![Explainable Credit Risk Copilot](docs/images/readme-hero.png)
 
 ## Overview
 
@@ -588,10 +588,6 @@ The Streamlit interface is designed to let an analyst:
 ### Standard-review example
 
 ![Standard analyst review](docs/screenshots/ui-standard-review.png)
-
-### Document-completion example
-
-![Document completion required](docs/screenshots/ui-document-completion.png)
 
 ## Observability
 
