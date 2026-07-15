@@ -869,7 +869,7 @@ If a credential is ever committed, deleting the file in a later commit is insuff
 
 This repository is an independent portfolio project.
 
-It is not affiliated with, endorsed by, or developed for financial institution.
+It is not affiliated with, endorsed by, or developed for any financial institution.
 
 All company names, loan applications, analyst notes and narrative content are synthetic. Model outputs are for demonstration and educational purposes only.
 
