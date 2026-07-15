@@ -839,7 +839,6 @@ If a credential is ever committed, deleting the file in a later commit is insuff
 * The model is trained on a public bankruptcy dataset rather than bank-specific corporate-default data.
 * Company metadata and supporting documents are synthetic.
 * The 30-borrower portfolio is designed for demonstration, not statistical validation.
-* Prototype rules are not NIBC or any other bank’s lending policy.
 * No fairness, bias or protected-class analysis has been completed.
 * The prototype does not produce regulatory adverse-action reasons.
 * Model serving was unavailable on the trial Databricks workspace.
