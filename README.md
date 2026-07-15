@@ -4,7 +4,7 @@
 
 <!-- Optional hero image -->
 
-![Explainable Credit Risk Copilot](docs/images/readme-hero.png)
+![Explainable Credit Risk Copilot](docs/screenshots/readme-hero.png)
 
 ## Overview
 
