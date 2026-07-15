@@ -2,8 +2,6 @@
 
 **Human-in-the-loop credit-risk decision support using Databricks, LangGraph and Microsoft Foundry**
 
-> This is a portfolio prototype. It does not represent NIBC lending policy, does not approve or reject credit, and must not be used for real lending decisions.
-
 <!-- Optional hero image -->
 
 <!-- ![Explainable Credit Risk Copilot](docs/images/readme-hero.png) -->
