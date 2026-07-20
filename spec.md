@@ -138,13 +138,13 @@ Reusable explanation:
 
 > I used public bankruptcy prediction data as a realistic proxy for corporate credit-risk modelling. The model predicts one-year bankruptcy risk, and I use that signal to demonstrate how a bank-style workflow could combine structured risk modelling, document retrieval, and controlled GenAI explanation.
 
-Do **not** say:
+**Not** correct:
 
 ```text
 The project directly predicts a bank's internal credit-risk outcome.
 ```
 
-Say:
+Correct:
 
 ```text
 The model predicts one-year bankruptcy probability using public company financial ratios. I use that as a proxy for corporate credit-risk decision support.
