@@ -448,7 +448,7 @@ Then the threshold was frozen and evaluated on the untouched test set.
 
 ---
 
-## 13. Did we calibrate probabilities?
+## 13. Did I calibrate probabilities?
 
 Yes.
 
