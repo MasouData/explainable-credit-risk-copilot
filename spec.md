@@ -728,7 +728,7 @@ Reusable explanation:
 
 ---
 
-## 19. Did we chunk the PDFs?
+## 19. Did I chunk the PDFs?
 
 Yes.
 
