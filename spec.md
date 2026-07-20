@@ -233,7 +233,7 @@ operating profit margin
 
 ---
 
-## 6. How did we rename anonymous features?
+## 6. How did I rename anonymous features?
 
 The feature names were **not invented**.
 
